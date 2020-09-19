@@ -20,7 +20,7 @@ if (file_exists(__DIR__.'/vendor/autoload.php')) {
 define('TABLE_NAME', 'contact_db_table');
 
 use App\Base\Activate;
-use App\Base\deactivate;
+use App\Base\Deactivate;
 use App\Controller;
 
 //Setup menu and listing page
