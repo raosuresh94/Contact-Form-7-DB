@@ -1,0 +1,16 @@
+{
+    "name": "suresh_rao/contact-db",
+    "description": "Plugin for testing purpose",
+    "authors": [
+        {
+            "name": "Suresh Rao",
+            "email": "raosuresh94@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "./app"
+        }
+    }
+}
